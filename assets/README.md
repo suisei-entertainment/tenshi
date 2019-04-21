@@ -32,3 +32,6 @@
         </a>
     </h4>
 </div>
+
+Contains all binary assets, typically images and other media
+files that are required by the various components.
